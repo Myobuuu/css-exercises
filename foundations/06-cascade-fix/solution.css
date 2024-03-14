@@ -8,6 +8,11 @@ body{
   font-weight: 800;
 }
 
+.small-para {
+  color: hsl(0, 0%, 0%);
+  font-weight: 800;
+}
+
 .para {
   font-size: 22px;
 }
